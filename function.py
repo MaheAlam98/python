@@ -16,3 +16,6 @@ def loop(a):
 
 p=input("Enter a name:")
 loop(p) #function called
+
+
+#built-in functions:
