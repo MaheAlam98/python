@@ -18,7 +18,9 @@ s2={"name2":"jamal","reg2":1090,"roll2":3356}
 s1.update(s2)
 print(s1)
 s2.clear()
-s1.pop("name1")
+s1.pop("name1") # name1 delete
+s1.popitem() #last item delete
 print(s1)
+del s2
 
     
