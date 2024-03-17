@@ -7,3 +7,6 @@ import os
 
 for i in range(0, 10):
     os.rename(f"tuhin/day {i+1}",f"tuhin/tutorial {i+1}")
+
+# aro kisu ase pore dakte hobe
+    
