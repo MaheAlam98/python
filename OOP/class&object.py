@@ -18,3 +18,12 @@ b.semester="2rd year 1st semester"
 b.p()
 
 
+class sdevelopment:
+     def __init__(self,name): #constructor automatically call for each object
+         
+         self.name=name
+         
+           
+
+d1=sdevelopment("tuhin")
+print(d1.name)
